@@ -6402,11 +6402,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Demo\\IOTDemo\\IotDevice\\IotDevice.csproj",
+      "projectUniqueName": "C:\\Code\\Demo\\IOTDemo\\IotDevice.csproj",
       "projectName": "IotDevice",
-      "projectPath": "C:\\Code\\Demo\\IOTDemo\\IotDevice\\IotDevice.csproj",
+      "projectPath": "C:\\Code\\Demo\\IOTDemo\\IotDevice.csproj",
       "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Demo\\IOTDemo\\IotDevice\\obj\\",
+      "outputPath": "C:\\Code\\Demo\\IOTDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vmadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
