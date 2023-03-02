@@ -10,10 +10,10 @@ namespace DotNetIot.Repository.SendTelemetryMessages
 {
     public class SendTelemetryMessages
     {
-        private static string connectionString="HostName=IOTHubAritram.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=Qq6k97EGGOjf44fEk65iEdrH2hp/bdqjuZC3ugQtA+c=";
+        private static string connectionString="HostName=hubtestag.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=U69Dt0czj4hts3iTITzLgvm4vnsset62QSDCbIHbrK8=";
         public static RegistryManager registryManager;
         public static DeviceClient client=null;
-        public static string myDeviceConnection="HostName=IOTHubAritram.azure-devices.net;DeviceId=TestDeviceAritram;SharedAccessKey=ToUhmOXTO660CNKOQawtD7swIuy/u+I/oSUtXHa4z1o=";
+        public static string myDeviceConnection="HostName=hubtestag.azure-devices.net;DeviceId=testdevicearitram;SharedAccessKey=T2tCMBN9ITSMb9yE8YhAxdr4ZKUNpxKIPOGJB4wXClI=";
         public static async Task SendMessage(string deviceName)
         {
             try
